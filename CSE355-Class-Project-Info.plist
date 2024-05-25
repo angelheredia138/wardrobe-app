@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Getting weather for clothing recommendations</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Getting weather for clothing recommendations</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Getting weather for clothing recommendations</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Take picture of clothing item</string>
+</dict>
+</plist>
