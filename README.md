@@ -32,10 +32,6 @@ git clone https://github.com/angelheredia138/wardrobe-app.git
 - CoreLocation for location-based weather data.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/).
