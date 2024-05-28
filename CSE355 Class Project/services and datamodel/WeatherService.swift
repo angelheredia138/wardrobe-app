@@ -10,7 +10,7 @@ import CoreLocation
 
 class WeatherService {
     func fetchWeather(latitude: Double, longitude: Double, completion: @escaping (Result<WeatherData, Error>) -> Void) {
-        let apiKey = "524fb82b5b0e2fccf8299d099588c7a8"
+        let apiKey = ""
         let urlString = "https://api.openweathermap.org/data/2.5/weather?lat=\(latitude)&lon=\(longitude)&appid=\(apiKey)"
         guard let url = URL(string: urlString) else {
             print("Invalid URL")
